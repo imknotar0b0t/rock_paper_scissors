@@ -2,7 +2,6 @@
 Rock Paper Scissors game
 
 Justin G Mitchell
-jgmitchell@gmail.com
 """
 
 import random    
